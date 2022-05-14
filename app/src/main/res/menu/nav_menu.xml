@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="@string/main">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_home"
+                    android:icon="@drawable/home_page_nav_icon"
+                    android:title="@string/homepage" />
+
+                <item
+                    android:id="@+id/nav_records"
+                    android:icon="@drawable/record_page_nav_icon"
+                    android:title="@string/recordspage" />
+
+                <item
+                    android:id="@+id/nav_note"
+                    android:icon="@drawable/note_page_nav_icon"
+                    android:title="@string/notepage" />
+
+                <item
+                    android:id="@+id/nav_credit_card"
+                    android:icon="@drawable/credit_card"
+                    android:title="@string/card"/>
+
+                <item
+                    android:id="@+id/nav_qr_scanner"
+                    android:icon="@drawable/qr_scanner_page_nav_icon"
+                    android:title="@string/qrscannerpage" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="@string/more">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_about_project"
+                    android:icon="@drawable/about_page_nav_icon"
+                    android:title="@string/aboutproject" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

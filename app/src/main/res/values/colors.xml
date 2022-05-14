@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="wallet_toolbar">#2A8C82</color>
+    <color name="wallet_background">#41BFB3</color>
+    <color name="white_gray">#E1E1E9</color>
+    <color name="blue">#18B5D9</color>
+    <color name="red">#F23C13</color>
+    <color name="purple">#9466D9</color>
+
+    <color name="ic_launcher_background">#3DDC84</color>
+</resources>

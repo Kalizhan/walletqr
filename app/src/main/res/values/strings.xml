@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">WalletQR</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="open">Открыто</string>
+    <string name="close">Закрыто</string>
+
+    <string name="homepage">Главная</string>
+    <string name="recordspage">Записи</string>
+    <string name="notepage">Заметки</string>
+    <string name="qrscannerpage">QR Сканер</string>
+    <string name="aboutproject">О проекте</string>
+
+    <string name="add">Добавить</string>
+    <string name="main">Важные</string>
+    <string name="more">Больше</string>
+    <string name="accounts">Счета</string>
+    <string name="planned_notes">Запланированные заметки</string>
+    <string name="show_more">Показать больше</string>
+    <string name="income">Доход</string>
+    <string name="expense">Расход</string>
+
+    <!--    <string-array name="currencies">-->
+    <!--        <item>KZT</item>-->
+    <!--        <item>RUB</item>-->
+    <!--        <item>USD</item>-->
+    <!--    </string-array>-->
+
+    <string name="hint_to_scan_card">Сохраните данные своих карт(до 2 штук), чтобы было легче ими пользоваться. \n\nНажмите здесь чтобы сохранить</string>
+    <string name="pocket_money">Наличные</string>
+    <string name="card">Банковские карты</string>
+    <string name="label">Категория</string>
+
+    <string name="date">Дата</string>
+</resources>
